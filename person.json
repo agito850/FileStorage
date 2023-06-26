@@ -1,0 +1,15 @@
+{
+    "firstname":"Shon",
+    "gender":false,
+    "height":20,
+    "email":"agito850@gmail.com",
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"桃園"
+    },
+    "phone":{
+        "市話":"0800-000-091",
+        "行動電話":"0900-123456"
+    },
+    "cars":["BMW","Nissan GT-R","Audi"]
+}
